@@ -4,7 +4,7 @@
 
 **EN** | [DE](#deutsch)
 
-**Get it in the in-game Mod Hub** (mod.io): search for "Residential Estate Towns".
+**Get it in the in-game Mod Hub** (mod.io): [Residential Estate Towns](https://mod.io/g/transportfever3/m/residential-estate-towns)
 
 A script mod for Transport Fever 3. Rename a town so that its name starts with a keyword, and the town becomes a **residential estate**: no commerce and industry, only housing. Remove the keyword again and the town gets its commerce and industry back. All other towns stay as they are.
 
@@ -76,7 +76,7 @@ MIT, see [LICENSE](LICENSE).
 
 ## Deutsch
 
-**Im Spiel über den Mod-Hub laden** (mod.io): nach „Residential Estate Towns“ suchen.
+**Im Spiel über den Mod-Hub laden** (mod.io): [Residential Estate Towns](https://mod.io/g/transportfever3/m/residential-estate-towns)
 
 Ein Script-Mod für Transport Fever 3. Benenne eine Stadt so um, dass ihr Name mit einem Stichwort beginnt, und die Stadt wird zum **Wohngebiet**: nur noch Wohnen, kein Rest. Entfernst du das Stichwort wieder, bekommt die Stadt Gewerbe und Industrie zurück. Alle anderen Städte bleiben unverändert.
 
